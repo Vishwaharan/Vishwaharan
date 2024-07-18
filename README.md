@@ -86,7 +86,7 @@
 ---
 
 ### 💡 Skills:
-- 🔤 **Languages & Technologies:** Java, Python, Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS)
+- 🔤 **Languages** Java, Python
 - 📺 **Front End Development:** HTML, CSS, JavaScript, Bootstrap
 - 🧵 **Back End Development:** Spring Boot, SQL
 - 🛠️ **Development Tools:** VS Code, Android Studio, Git & GitHub
