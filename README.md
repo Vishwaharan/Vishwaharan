@@ -5,7 +5,7 @@
 
 ### 🔭 About Me:
 <p>
-  I am a dedicated and results-driven developer with a passion for creating robust web and mobile applications using Java and Flutter. My goal is to leverage technology to solve real-world problems and enhance user experiences.
+  I am a dedicated and results-driven developer with a passion for creating robust web and mobile applications using Java , ReactJS and Flutter. My goal is to leverage technology to solve real-world problems and enhance user experiences.
 </p>
 
 <p>
