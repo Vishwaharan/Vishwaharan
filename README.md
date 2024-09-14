@@ -49,18 +49,24 @@
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>    
-  </tr>
-  <tr>
-    <td align="center" width="96">
       <a href="https://www.javascript.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 20px;"/>
       </a>
       <br>JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://reactjs.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 20px;"/>
+      </a>
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="https://spring.io/projects/spring-boot" target="_blank">
@@ -83,11 +89,13 @@
   </tr>
 </table>
 
+
+
 ---
 
 ### 💡 Skills:
 - 🔤 **Languages** Java, Python
-- 📺 **Front End Development:** HTML, CSS, JavaScript, Bootstrap
+- 📺 **Front End Development:** HTML, CSS, JavaScript, ReactJS, Bootstrap
 - 🧵 **Back End Development:** Spring Boot, SQL
 - 🛠️ **Development Tools:** VS Code, Android Studio, Git & GitHub
 - ⚡ **Soft Skills:** Strong Communication, Problem Solving, Teamwork, Adaptability
