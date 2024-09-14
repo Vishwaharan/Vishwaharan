@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Vishwaharan M 👋</h1>
-<h3 align="center">Enthusiastic Java & Flutter Developer | B.Tech in Information Technology | Tech Innovator</h3>
+<h3 align="center">Enthusiastic Java Developer | B.Tech in Information Technology | Tech Innovator</h3>
 
 ---
 
