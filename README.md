@@ -95,8 +95,8 @@
 
 ### 💡 Skills:
 - 🔤 **Languages** Java, Python
-- 📺 **Front End Development:** HTML, CSS, JavaScript, ReactJS, Bootstrap
-- 🧵 **Back End Development:** Spring Boot, SQL
+- 📺 **Front End Development:** HTML, CSS, JavaScript, ReactJS, Flutter
+- 🧵 **Back End Development:** NodeJS, ExpressJS, Spring Boot, SQL, Firebase, MongoDB
 - 🛠️ **Development Tools:** VS Code, Android Studio, Git & GitHub
 - ⚡ **Soft Skills:** Strong Communication, Problem Solving, Teamwork, Adaptability
 
