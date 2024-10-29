@@ -1,107 +1,110 @@
-<h1 align="center">Hello, I'm Vishwaharan M 👋</h1>
-<h3 align="center">Enthusiastic Java Developer | B.Tech in Information Technology | Tech Innovator</h3>
+<h1 align="center">Vishwaharan M </h1>
+<h3 align="center">Enthusiastic Java Developer | Flutter Developer | Full Stack Developer</h3>
+
+## Summary
+
+Dedicated programmer currently pursuing a B.Tech in Information Technology. Proficient in Java, Flutter, and ReactJS, with a strong passion for learning and implementing cutting-edge technologies. Experienced in developing robust web and mobile applications, leveraging hands-on expertise in various programming languages and tools to create innovative solutions.
 
 ---
 
-### 🔭 About Me:
-<p>
-  I am a dedicated and results-driven developer with a passion for creating robust web and mobile applications using Java , ReactJS and Flutter. My goal is to leverage technology to solve real-world problems and enhance user experiences.
-</p>
-
-<p>
-  📫 <strong>Email:</strong> <a href="mailto:vishwaharan002@gmail.com">vishwaharan002@gmail.com</a><br>
-  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/vishwaharan02-m">linkedin.com/in/vishwaharan02-m</a>
-</p>
-
----
-
-### 🛠 Languages and Tools
-<table align="center">
+<h3>🛠 Languages and Tools</h3>
+<table>
   <tr>
-    <td align="center" width="96">
-      <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin: 20px;"/>
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 20px;"/>
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://flutter.dev" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" style="margin: 20px;"/>
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 20px;"/>
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3.org/TR/CSS/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 20px;"/>
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.javascript.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 20px;"/>
-      </a>
-      <br>JavaScript
-    </td>
+    <td><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <a href="https://reactjs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 20px;"/>
-      </a>
-      <br>ReactJS
+    <td>Java</td>
+    <td>Python</td>
+  </tr>
+</table>
+
+<h3>Front End Development</h3>
+<table>
+  <tr>
+    <td><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a></td>
+  </tr>
+  <tr>
+    <td>HTML5</td>
+    <td>CSS3</td>
+    <td>JavaScript</td>
+    <td>React</td>
+    <td>Flutter</td>
+  </tr>
+</table>
+
+<h3>Back End Development</h3>
+<table>
+  <tr>
+    <td><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a></td>
+  </tr>
+  <tr>
+    <td>Node.js</td>
+    <td>Express</td>
+    <td>Spring</td>
+  </tr>
+</table>
+
+<h3>Database Tools</h3>
+<table>
+  <tr>
+    <td><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a></td>
+    <td><a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a></td>
+  </tr>
+  <tr>
+    <td>MySQL</td>
+    <td>MongoDB</td>
+    <td>Firebase</td>
+  </tr>
+</table>
+
+<h3>Version Control</h3>
+<table>
+  <tr>
+    <td><a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></td>
+  </tr>
+  <tr>
+    <td>Git</td>
+  </tr>
+</table>
+
+
+
+
+---
+
+## Education
+
+- **Bachelor of Technology in Information Technology**  
+  PSNA College, Dindigul  
+  Expected Graduation: 2025
+
+---
+
+## GitHub Statistics
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwaharan&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="200"/>
     </td>
-    <td align="center" width="96">
-      <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=vishwaharan&show_icons=true&locale=en" alt="GitHub Stats" width="300" height="200"/>
     </td>
-    <td align="center" width="96">
-      <a href="https://spring.io/projects/spring-boot" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-boot" width="40" height="40" style="margin: 20px;"/>
-      </a>
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin: 20px;"/>
-      </a>
-      <br>SQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://git-scm.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaharan" alt="GitHub Streak" width="300" height="200"/>
     </td>
   </tr>
 </table>
 
 
 
----
-
-### 💡 Skills:
-- 🔤 **Languages** Java, Python
-- 📺 **Front End Development:** HTML, CSS, JavaScript, ReactJS, Flutter
-- 🧵 **Back End Development:** NodeJS, ExpressJS, Spring Boot, SQL, Firebase, MongoDB
-- 🛠️ **Development Tools:** VS Code, Android Studio, Git & GitHub
-- ⚡ **Soft Skills:** Strong Communication, Problem Solving, Teamwork, Adaptability
 
 ---
-
-### 🎓 Education:
-**B.Tech in Information Technology**  
-PSNA College of Engineering and Technology, Expected Graduation: 2025
