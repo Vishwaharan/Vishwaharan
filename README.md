@@ -86,25 +86,5 @@ Dedicated programmer currently pursuing a B.Tech in Information Technology. Prof
   PSNA College, Dindigul  
   Expected Graduation: 2025
 
----
-
-## GitHub Statistics
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwaharan&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="200"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=vishwaharan&show_icons=true&locale=en" alt="GitHub Stats" width="300" height="200"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaharan" alt="GitHub Streak" width="300" height="200"/>
-    </td>
-  </tr>
-</table>
-
-
-
 
 ---
